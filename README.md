@@ -1,6 +1,16 @@
 # Tech_Website
 
 Welcome to the Tech Company Website repository! This repository contains the source code for a fully responsive website for a technology company. The website is built using HTML, CSS, and JavaScript.
+* Visit: https://imsyntn.github.io/Tech_Website/
+
+
+# Screenshots
+
+![Screenshot 2023-06-23 164333](https://github.com/imSyntn/Tech_Website/assets/134107725/7008d931-0250-4017-9c5c-d02f2ef90e14)
+![09](https://github.com/imSyntn/Tech_Website/assets/134107725/74c6d385-7bf0-4005-b79f-7bf7a84ba0e4)
+![Screenshot 2023-06-23 164539](https://github.com/imSyntn/Tech_Website/assets/134107725/79a8e051-d752-4502-8eb2-e18e989b5207)
+![Screenshot 2023-06-23 164607](https://github.com/imSyntn/Tech_Website/assets/134107725/806526b4-d954-481d-bb0a-546cc37f202c)
+
 
 # Features
 
